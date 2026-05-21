@@ -88,7 +88,7 @@ I'm a Computer Science student with a deep curiosity for how intelligent systems
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-46&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Naresh-46&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
